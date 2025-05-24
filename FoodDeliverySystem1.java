@@ -21,7 +21,7 @@ public class FoodDeliverySystem1{
               Login frame = new Login();
             frame.setVisible(true);
    
-            System.out.println("Cool");
+            System.out.println("Running");
     }
            
 
