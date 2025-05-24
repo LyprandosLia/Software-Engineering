@@ -15,3 +15,8 @@ Deliver a Software Requirements Specification (SRS) document detailing your syst
 Create a User Acceptance Testing (UAT) document with at least 3 tests per implemented use case.
 
 Prepare a demo with running code that showcases the implemented functionalities. Partial implementation is acceptable.
+
+Was selected the Online Food Order Delivery application in Java. 
+More specifically, the project connects to a mysQL database and the user can select one of the multiple available stores. 
+Afterwards, user can choose between the available items of the menu of the selected store and choose the payment method.
+The stores and the menus are included as tables in MySQL database.
